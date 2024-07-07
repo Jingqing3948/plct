@@ -6,7 +6,17 @@
 
 ## 文章链接
 
-【RISC-V的历史与设计理念 - CSDN App】http://t.csdnimg.cn/Xo75b
+【RISC-V的历史与设计理念】
 
-【RISC-V在当前计算架构中的地位 - CSDN App】http://t.csdnimg.cn/niCev
+[Github 链接](https://github.com/Jingqing3948/plct/blob/main/RISC-V_short_video/doc/RISC-V%E7%9A%84%E5%8E%86%E5%8F%B2%E4%B8%8E%E8%AE%BE%E8%AE%A1%E7%90%86%E5%BF%B5.md)
+
+[CSDN 链接](http://t.csdnimg.cn/Xo75b)
+
+【RISC-V在当前计算架构中的地位】
+
+[Github 链接](https://github.com/Jingqing3948/plct/blob/main/RISC-V_short_video/doc/RISC-V%E5%9C%A8%E5%BD%93%E5%89%8D%E8%AE%A1%E7%AE%97%E6%9E%B6%E6%9E%84%E4%B8%AD%E7%9A%84%E5%9C%B0%E4%BD%8D.md)
+
+[CSDN 链接](http://t.csdnimg.cn/niCev)
+
+
 

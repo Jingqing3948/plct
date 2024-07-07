@@ -4,11 +4,19 @@
 
 ## 文章链接
 
-【RISC-V教学内容及短视频吸引因素 - CSDN App】http://t.csdnimg.cn/GAesS
+【RISC-V教学内容及短视频吸引因素】
 
-【RISC-V教学短视频同类视频调研报告 - CSDN App】http://t.csdnimg.cn/1inUx
+[Github 链接](https://github.com/Jingqing3948/plct/blob/main/RISC-V_short_video/doc/RISC-V%E6%95%99%E5%AD%A6%E5%86%85%E5%AE%B9%E5%8F%8A%E7%9F%AD%E8%A7%86%E9%A2%91%E5%90%B8%E5%BC%95%E5%9B%A0%E7%B4%A0.md)
+
+[CSDN 链接](http://t.csdnimg.cn/GAesS)
+
+【RISC-V教学短视频同类视频调研报告】
+
+[Github 链接](https://github.com/Jingqing3948/plct/blob/main/RISC-V_short_video/doc/RISC-V%E6%95%99%E5%AD%A6%E7%9F%AD%E8%A7%86%E9%A2%91%E5%90%8C%E7%B1%BB%E8%A7%86%E9%A2%91%E8%B0%83%E7%A0%94%E6%8A%A5%E5%91%8A.md)
+
+[CSDN 链接](http://t.csdnimg.cn/1inUx)
 
 ## 视频链接
 
-【猫meme教你如何使用llama2.c运行llama2模型！-哔哩哔哩】 https://b23.tv/6PWxOg1
+[猫meme教你如何使用llama2.c运行llama2模型！-哔哩哔哩](https://b23.tv/6PWxOg1)
 
