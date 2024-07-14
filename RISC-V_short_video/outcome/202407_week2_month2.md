@@ -6,7 +6,7 @@
 
 【RISC-V指令集架构详细组成】
 
-[Github 链接](https://github.com/Jingqing3948/plct/blob/main/RISC-V_short_video/doc/RISC-V%E7%9A%84%E5%8E%86%E5%8F%B2%E4%B8%8E%E8%AE%BE%E8%AE%A1%E7%90%86%E5%BF%B5.md)
+[Github 链接](https://github.com/Jingqing3948/plct/blob/main/RISC-V_short_video/doc/RISC-V%E6%8C%87%E4%BB%A4%E9%9B%86%E6%9E%B6%E6%9E%84%E8%AF%A6%E7%BB%86%E7%BB%84%E6%88%90.md)
 
 [CSDN 链接](http://t.csdnimg.cn/Zphgy)
 
