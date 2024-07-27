@@ -57,7 +57,7 @@ $ git clone https://github.com/nihui/opencv-mobile.git
 $ cd opencv-mobile
 
 $ wget -q https://github.com/opencv/opencv/archive/4.8.1.zip
-$ unzip -q opencv-4.8.1.zip
+$ unzip -q 4.8.1.zip
 $ cd opencv-4.8.1
 
 $ truncate -s 0 cmake/OpenCVFindLibsGrfmt.cmake
