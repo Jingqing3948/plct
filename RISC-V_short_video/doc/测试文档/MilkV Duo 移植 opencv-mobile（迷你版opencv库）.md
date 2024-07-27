@@ -56,16 +56,16 @@ $ export RISCV_ROOT_PATH=$HOST_TOOL_PATH/gcc/riscv64-linux-musl-x86_64
 $ git clone https://github.com/nihui/opencv-mobile.git
 $ cd opencv-mobile
 
-$ wget -q https://github.com/opencv/opencv/archive/4.8.1.zip
-$ unzip -q 4.8.1.zip
-$ cd opencv-4.8.1
+$ wget -q https://github.com/opencv/opencv/archive/4.10.0.zip
+$ unzip -q 4.10.0.zip
+$ cd opencv-4.10.0
 
 $ truncate -s 0 cmake/OpenCVFindLibsGrfmt.cmake
 $ rm -rf modules/gapi
 下面三条指令略有不同。旧版本中 .patch 文件确实位于 opencv-mobile 文件夹中，新版本 .patch 文件整合到了 opencv-mobile/patch/文件夹中，需要自行修改。
-$ patch -p1 -i ../opencv-4.8.1-no-rtti.patch
-$ patch -p1 -i ../opencv-4.8.1-no-zlib.patch
-$ patch -p1 -i ../opencv-4.8.1-link-openmp.patch
+$ patch -p1 -i ../patches/opencv-4.10.0-no-rtti.patch
+$ patch -p1 -i ../patches/opencv-4.10.0-no-zlib.patch
+$ patch -p1 -i ../patches/opencv-4.10.0-link-openmp.patch
 $ rm -rf modules/highgui
 $ cp -r ../highgui modules/
 
@@ -109,7 +109,7 @@ $ cd opencv-mobile/test
 
 $ mkdir build
 $ cd build
-$ cmake -DCMAKE_TOOLCHAIN_FILE=../../toolchains/riscv64-unknown-linux-musl.toolchain.cmake -DCMAKE_BUILD_TYPE=Release -DOpenCV_DIR=/home/nihui/dev/opencv-mobile/opencv-4.8.0/build/install/lib/cmake/opencv4 ..
+$ cmake -DCMAKE_TOOLCHAIN_FILE=../../toolchains/riscv64-unknown-linux-musl.toolchain.cmake -DCMAKE_BUILD_TYPE=Release -DOpenCV_DIR=/home/nihui/dev/opencv-mobile/opencv-4.10.0/build/install/lib/cmake/opencv4 ..
 $ make
 ```
 
